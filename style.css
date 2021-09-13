@@ -14,6 +14,12 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+.sr-only {
+    position: absolute;
+    
+    
+}
+
 .container {
     width: min(90vw, 800px);
 
@@ -36,13 +42,10 @@ h2 {
     background: #2D4A22;
     padding: 2rem 0 10rem;
     text-align: center;
-
 }
 
-.txt-logo {
-    color: #fff;
-    font-weight: 100;
-}
+
+
 
 /* Balance ================ */
 #balance {
