@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img heigth ="50em" alt="finance " title="#finance" src="./img/logo.svg" />
+</h1>
+
 <h4 align="center"> 
 	🚧 🚀 Em construção... 🚧
 </h4>
@@ -86,29 +90,3 @@
 
 		[] Estrutura da aplicação com HTML
 		[] Estilização com CSS
-
-
-7. Vamos ver o que veremos na próxima semana?
-
-## Cursos/aulas
-	### Revisão
-	* HTML
-		[] O guia estelar de HTML
-		[] HTML que faz sentido para todos
-	* CSS
-		[] O guia estelar de CSS
-		[] Nem tudo são pixels
-		[] Uma caixa dentro da outra
-		[] App bonito até nos textos
-	* Guia estelar de HTTP
-		[] 1. Entendendo
-			[] Visão geral
-			[] Visualizando a comunicação
-		[] 2. Conceitos (com exceção da aula de proxies)
-		[] 3. URI (com exceção da aula de URN)
-	### Preparação para próxima aula
-	* HTML
-		[] Posso ver e ouvir o HTML
-		[] Formulários de outro planeta
-	* CSS
-		[] Nem só de classes ou ID's
