@@ -9,7 +9,9 @@
   
   <img alt="last commit" src="https://img.shields.io/static/v1?label=last-commit&message=September 2021&color=green&style=for-the-badge&logo=ghost">
 </p>
+
 ### Qual a proposta deste projeto?
+
 	[] Organização e estudo
 	[] Plataforma e Comunidade
 	[] Mentalidade Dev
